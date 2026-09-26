@@ -1,0 +1,11 @@
+# Requirements for the Hugging Face Space (16 GB RAM): the light app + the fine-tuned DistilBERT panel.
+pandas>=2.2
+numpy>=1.26
+pyarrow>=15
+scikit-learn>=1.4
+joblib>=1.3
+plotly>=5.24
+streamlit>=1.40
+torch>=2.2
+transformers>=4.40
+huggingface_hub>=0.24

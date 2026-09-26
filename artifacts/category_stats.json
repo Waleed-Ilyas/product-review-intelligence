@@ -1,0 +1,24 @@
+{
+ "All_Beauty": {
+  "reviews": 59972,
+  "products": 1673,
+  "negative_pct": 20.72300406856533,
+  "positive_pct": 70.75468551990929,
+  "avg_rating": 3.9434402721269928,
+  "date_min": "2003-10-08",
+  "date_max": "2023-09-03"
+ },
+ "Appliances": {
+  "reviews": 59995,
+  "products": 1645,
+  "negative_pct": 12.497708142345196,
+  "positive_pct": 81.75514626218852,
+  "avg_rating": 4.310842570214184,
+  "date_min": "2002-11-17",
+  "date_max": "2023-04-06"
+ },
+ "_all": {
+  "reviews": 119967,
+  "products": 3318
+ }
+}

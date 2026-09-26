@@ -1,0 +1,234 @@
+{
+ "All_Beauty|0": {
+  "name": "Skin & face care",
+  "kind": ""
+ },
+ "All_Beauty|1": {
+  "name": "Hair care, wigs & shaving",
+  "kind": ""
+ },
+ "All_Beauty|3": {
+  "name": "General performance (generic)",
+  "kind": "generic"
+ },
+ "All_Beauty|2": {
+  "name": "Scent & fragrance",
+  "kind": ""
+ },
+ "All_Beauty|8": {
+  "name": "Soft accessories & sets",
+  "kind": ""
+ },
+ "All_Beauty|11": {
+  "name": "Gifts & family",
+  "kind": ""
+ },
+ "All_Beauty|12": {
+  "name": "Waste of money / price",
+  "kind": ""
+ },
+ "All_Beauty|4": {
+  "name": "Nails & polish",
+  "kind": ""
+ },
+ "All_Beauty|5": {
+  "name": "Colour & shade",
+  "kind": ""
+ },
+ "All_Beauty|9": {
+  "name": "Returns & refunds",
+  "kind": ""
+ },
+ "All_Beauty|6": {
+  "name": "Brushes & teeth",
+  "kind": ""
+ },
+ "All_Beauty|18": {
+  "name": "Unmet expectations",
+  "kind": ""
+ },
+ "All_Beauty|7": {
+  "name": "Size & fit",
+  "kind": ""
+ },
+ "All_Beauty|13": {
+  "name": "Packaging & delivery",
+  "kind": ""
+ },
+ "All_Beauty|19": {
+  "name": "Ease of use & instructions",
+  "kind": ""
+ },
+ "All_Beauty|14": {
+  "name": "Bottles, pumps & leaks",
+  "kind": ""
+ },
+ "All_Beauty|10": {
+  "name": "Batteries & breakage",
+  "kind": ""
+ },
+ "All_Beauty|26": {
+  "name": "Durability (how long it lasts)",
+  "kind": ""
+ },
+ "All_Beauty|16": {
+  "name": "Cases & travel bags",
+  "kind": ""
+ },
+ "All_Beauty|20": {
+  "name": "Clippers & cutting",
+  "kind": ""
+ },
+ "All_Beauty|17": {
+  "name": "Headbands & ear comfort",
+  "kind": ""
+ },
+ "All_Beauty|23": {
+  "name": "Not as pictured / described",
+  "kind": ""
+ },
+ "All_Beauty|15": {
+  "name": "Curling irons & heat",
+  "kind": ""
+ },
+ "All_Beauty|27": {
+  "name": "Suction & bath items",
+  "kind": ""
+ },
+ "All_Beauty|24": {
+  "name": "Blow dryers",
+  "kind": ""
+ },
+ "All_Beauty|21": {
+  "name": "Star-rating comments (generic)",
+  "kind": "generic"
+ },
+ "All_Beauty|22": {
+  "name": "Chatter (generic)",
+  "kind": "generic"
+ },
+ "All_Beauty|25": {
+  "name": "Mirrors & lights",
+  "kind": ""
+ },
+ "All_Beauty|28": {
+  "name": "Misc. praise (generic)",
+  "kind": "generic"
+ },
+ "Appliances|2": {
+  "name": "Price, brand & quality (generic)",
+  "kind": "generic"
+ },
+ "Appliances|4": {
+  "name": "Easy installation",
+  "kind": ""
+ },
+ "Appliances|0": {
+  "name": "Washers, dryers & dishwashers",
+  "kind": ""
+ },
+ "Appliances|1": {
+  "name": "Water filters & taste",
+  "kind": ""
+ },
+ "Appliances|7": {
+  "name": "Repairs & replacement parts",
+  "kind": ""
+ },
+ "Appliances|3": {
+  "name": "Ice makers & fridges",
+  "kind": ""
+ },
+ "Appliances|5": {
+  "name": "Coffee makers & pods",
+  "kind": ""
+ },
+ "Appliances|8": {
+  "name": "Fit & compatibility",
+  "kind": ""
+ },
+ "Appliances|9": {
+  "name": "Build quality (flimsy plastic)",
+  "kind": ""
+ },
+ "Appliances|11": {
+  "name": "Stopped working after months",
+  "kind": ""
+ },
+ "Appliances|13": {
+  "name": "Shipping & delivery",
+  "kind": ""
+ },
+ "Appliances|6": {
+  "name": "Stoves, ovens & knobs",
+  "kind": ""
+ },
+ "Appliances|12": {
+  "name": "Hoses, pumps & leaks",
+  "kind": ""
+ },
+ "Appliances|28": {
+  "name": "Exactly what I needed (generic)",
+  "kind": "generic"
+ },
+ "Appliances|20": {
+  "name": "OEM parts & cost",
+  "kind": ""
+ },
+ "Appliances|27": {
+  "name": "Waste of money",
+  "kind": ""
+ },
+ "Appliances|10": {
+  "name": "Fans, vents & noise",
+  "kind": ""
+ },
+ "Appliances|16": {
+  "name": "Star-rating comments (generic)",
+  "kind": "generic"
+ },
+ "Appliances|15": {
+  "name": "Doors, handles & locks",
+  "kind": ""
+ },
+ "Appliances|23": {
+  "name": "Trash bags",
+  "kind": ""
+ },
+ "Appliances|24": {
+  "name": "Odour & smell",
+  "kind": ""
+ },
+ "Appliances|14": {
+  "name": "Humidity & sensors",
+  "kind": ""
+ },
+ "Appliances|18": {
+  "name": "Range hoods",
+  "kind": ""
+ },
+ "Appliances|17": {
+  "name": "Baskets & wheels",
+  "kind": ""
+ },
+ "Appliances|19": {
+  "name": "Holders & trays",
+  "kind": ""
+ },
+ "Appliances|26": {
+  "name": "GE range parts",
+  "kind": ""
+ },
+ "Appliances|22": {
+  "name": "Model numbers (generic)",
+  "kind": "generic"
+ },
+ "Appliances|25": {
+  "name": "Magnets",
+  "kind": ""
+ },
+ "Appliances|21": {
+  "name": "Belts & drums",
+  "kind": ""
+ }
+}

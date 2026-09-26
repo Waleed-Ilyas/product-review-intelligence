@@ -1,0 +1,42 @@
+{
+ "raw_reviews": 1412437,
+ "steps": [
+  {
+   "step": "rating missing / outside 1-5",
+   "removed": 0,
+   "left": 1412437
+  },
+  {
+   "step": "review text shorter than 30 characters after cleaning",
+   "removed": 248991,
+   "left": 1163446
+  },
+  {
+   "step": "exact duplicate review text on the same product",
+   "removed": 8736,
+   "left": 1154710
+  },
+  {
+   "step": "mostly non-Latin text (not English)",
+   "removed": 1372,
+   "left": 1153338
+  },
+  {
+   "step": "per-product cap (40 reviews)",
+   "removed": 374300,
+   "left": 779038
+  },
+  {
+   "step": "sample to 60,000 reviews per category (whole review sets of products with >= 25 reviews first)",
+   "removed": 659071,
+   "left": 119967
+  }
+ ],
+ "final_reviews": 119967,
+ "by_category": {
+  "Appliances": 59995,
+  "All_Beauty": 59972
+ },
+ "products": 3318,
+ "reviews_with_product_title": 119967
+}

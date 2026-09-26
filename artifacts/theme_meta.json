@@ -1,0 +1,16 @@
+{
+ "n_sentences": 320670,
+ "n_reviews": 119967,
+ "classifier": {
+  "Appliances": {
+   "held_out_accuracy_vs_embedding_assignment": 0.7664633127193715,
+   "n_themes": 29
+  },
+  "All_Beauty": {
+   "held_out_accuracy_vs_embedding_assignment": 0.7593297476210178,
+   "n_themes": 29
+  }
+ },
+ "runtime_min": 37.47802043755849,
+ "n_topics_requested": 30
+}
