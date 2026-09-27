@@ -2,7 +2,7 @@
 
 Turns 120k real Amazon reviews into what a product team actually needs: **how customers feel, which themes they love or hate, how complaints trend, and what a specific product's reviews say**, without reading thousands of reviews. Includes a sentiment benchmark (TF-IDF baseline vs pretrained vs fine-tuned DistilBERT), BERTopic theme discovery on sentence embeddings, and an interactive Streamlit analyzer.
 
-**Live demo:** _added after deployment_ · **Stack:** scikit-learn, Hugging Face Transformers (DistilBERT), sentence-transformers, BERTopic/UMAP/HDBSCAN, MLflow, Streamlit + Plotly
+**Live demo:** [https://appuct-review-intelligence-z2ozb4gnvuo8enkunmth3j.streamlit.app/](https://appuct-review-intelligence-z2ozb4gnvuo8enkunmth3j.streamlit.app/) · **Stack:** scikit-learn, Hugging Face Transformers (DistilBERT), sentence-transformers, BERTopic/UMAP/HDBSCAN, MLflow, Streamlit + Plotly
 
 ![Category themes](reports/figures/app_themes.png)
 
